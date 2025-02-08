@@ -1,6 +1,5 @@
-# OOPs-Assignment1
 # University Course Registration System
-
+OOP Assignment
 ## Overview
 The **University Course Registration System** is a terminal-based, menu-driven application developed using **Object-Oriented Programming (OOP)** concepts in **Java**. This system helps manage student enrollments, schedules, and academic records while ensuring the implementation of fundamental OOP concepts like classes, interfaces, inheritance, polymorphism, encapsulation, and abstraction.
 
