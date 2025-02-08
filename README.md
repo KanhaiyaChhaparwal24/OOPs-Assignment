@@ -41,5 +41,5 @@ Each role has its own set of functionalities, accessible after logging in with t
 
 ## Help me Improve
 <p> Hello readers, if you find any bugs, please consider raising issue so that I can address them asap and connect with me on
-<a href="mailto:kanhaiyaac24@gmail.com">email</a> or
-<a href="https://www.linkedin.com/in/kanhaiya-chhaparwal-73a139289/">Linkedin</a>
+<a href="mailto:kanhaiyaac24@gmail.com">Email</a> or
+<a href="https://www.linkedin.com/in/kanhaiya-chhaparwal/">Linkedin</a>
